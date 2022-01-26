@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ForbitTech/Rangs-Client-Privacy-Policy.git/static/css/main.e6c13ad2.css",
+    "main.js": "/ForbitTech/Rangs-Client-Privacy-Policy.git/static/js/main.d9ff7a0f.js",
+    "static/js/787.453d22c5.chunk.js": "/ForbitTech/Rangs-Client-Privacy-Policy.git/static/js/787.453d22c5.chunk.js",
+    "index.html": "/ForbitTech/Rangs-Client-Privacy-Policy.git/index.html",
+    "main.e6c13ad2.css.map": "/ForbitTech/Rangs-Client-Privacy-Policy.git/static/css/main.e6c13ad2.css.map",
+    "main.d9ff7a0f.js.map": "/ForbitTech/Rangs-Client-Privacy-Policy.git/static/js/main.d9ff7a0f.js.map",
+    "787.453d22c5.chunk.js.map": "/ForbitTech/Rangs-Client-Privacy-Policy.git/static/js/787.453d22c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d9ff7a0f.js"
+  ]
+}
